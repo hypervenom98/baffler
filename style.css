@@ -1,0 +1,38 @@
+
+
+body{background-image:url("/home/itsec2/Pictures/index.png");
+background-repeat:no-repeat;
+
+
+background-attachment:fixed;
+background-attachment:scroll;
+background-position:right bottom;
+border-style:dotted dashed solid groove;
+border-top-style:dashed;
+border-width:10px 20px medium 20px;
+border-color:rgb(0,0,0) rgb(100,255,0);
+margin:25px 50px 75px 100px;
+}
+
+#redtxt{color:orange;font-family:Monoscript;
+text-decoration:underline;
+font-style:italic;
+font-size:50px;
+text-transform:capitalize;
+font-variant:small-caps;
+text-shadow:5px 5px 7px red;
+letter-spacing:.4em;margin-bottom:3em;font-weight:bold;}
+
+.bluetxt{color:blue;
+text-align:right;}
+
+a.rtxt:visited{color:red;}
+a.btxt:link{color:blue;}
+a.largesize:hover{font-size:50pt;}
+fontsize:active{color:green;}
+
+p.dot{border-style:ridge;border-color:black;background-color:grey;padding:30px 50px 30px 50px;width:600px}
+div{width:300px;margin:auto;border:5px solid powderblue;padding:25px}
+span{display:inline;color:red;}
+}
+
